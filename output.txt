@@ -1,0 +1,45 @@
+Runde 1 - gestartet um 2024-05-30 20:26:23.682626653 +02:00 - beendet um 2024-05-30 20:26:28.682921459 +02:00:
+Spieler_3 hat eine 42 gewürfelt! (START-Nachricht erhalten: 20:20:20-26, Antwort gesendet: 20:20:23-682783)
+Runde 1 hat Spieler_3 mit folgendem Wurf gewonnen: 42!
+
+Runde 2 - gestartet um 2024-05-30 20:26:28.683572034 +02:00 - beendet um 2024-05-30 20:26:33.683774400 +02:00:
+Spieler_1 hat eine 29 gewürfelt! (START-Nachricht erhalten: 20:20:20-26, Antwort gesendet: 20:20:28-683616)
+Runde 2 hat Spieler_1 mit folgendem Wurf gewonnen: 29!
+
+Runde 3 - gestartet um 2024-05-30 20:26:33.684240543 +02:00 - beendet um 2024-05-30 20:26:38.684428709 +02:00:
+Spieler_3 hat eine 10 gewürfelt! (START-Nachricht erhalten: 20:20:20-26, Antwort gesendet: 20:20:33-684279)
+Runde 3 hat Spieler_3 mit folgendem Wurf gewonnen: 10!
+
+Runde 4 - gestartet um 2024-05-30 20:26:38.684948283 +02:00 - beendet um 2024-05-30 20:26:43.685156709 +02:00:
+Spieler_2 hat eine 81 gewürfelt! (START-Nachricht erhalten: 20:20:20-26, Antwort gesendet: 20:20:38-685025)
+Spieler_1 hat eine 59 gewürfelt! (START-Nachricht erhalten: 20:20:20-26, Antwort gesendet: 20:20:38-684987)
+Runde 4 hat Spieler_2 mit folgendem Wurf gewonnen: 81!
+
+Runde 5 - gestartet um 2024-05-30 20:26:43.685822364 +02:00 - beendet um 2024-05-30 20:26:48.686032317 +02:00:
+Spieler_3 hat eine 5 gewürfelt! (START-Nachricht erhalten: 20:20:20-26, Antwort gesendet: 20:20:43-685851)
+Spieler_2 hat eine 37 gewürfelt! (START-Nachricht erhalten: 20:20:20-26, Antwort gesendet: 20:20:43-685876)
+Runde 5 hat Spieler_2 mit folgendem Wurf gewonnen: 37!
+
+Runde 6 - gestartet um 2024-05-30 20:26:48.687142016 +02:00 - beendet um 2024-05-30 20:26:53.687366507 +02:00:
+Spieler_3 hat eine 86 gewürfelt! (START-Nachricht erhalten: 20:20:20-26, Antwort gesendet: 20:20:48-687233)
+Spieler_1 hat eine 99 gewürfelt! (START-Nachricht erhalten: 20:20:20-26, Antwort gesendet: 20:20:48-687180)
+Runde 6 hat Spieler_1 mit folgendem Wurf gewonnen: 99!
+
+Runde 7 - gestartet um 2024-05-30 20:26:53.688224825 +02:00 - beendet um 2024-05-30 20:26:58.688403526 +02:00:
+Da waren wohl alle Spieler zu langsam für den Spielleiter :)
+
+Runde 8 - gestartet um 2024-05-30 20:26:58.688826059 +02:00 - beendet um 2024-05-30 20:27:03.689019450 +02:00:
+Spieler_3 hat eine 77 gewürfelt! (START-Nachricht erhalten: 20:20:20-26, Antwort gesendet: 20:20:58-688868)
+Runde 8 hat Spieler_3 mit folgendem Wurf gewonnen: 77!
+
+Runde 9 - gestartet um 2024-05-30 20:27:03.689597985 +02:00 - beendet um 2024-05-30 20:27:08.689786966 +02:00:
+Spieler_3 hat eine 86 gewürfelt! (START-Nachricht erhalten: 20:20:20-27, Antwort gesendet: 20:20:3-689649)
+Runde 9 hat Spieler_3 mit folgendem Wurf gewonnen: 86!
+
+Runde 10 - gestartet um 2024-05-30 20:27:08.690415811 +02:00 - beendet um 2024-05-30 20:27:13.690628542 +02:00:
+Spieler_2 hat eine 50 gewürfelt! (START-Nachricht erhalten: 20:20:20-27, Antwort gesendet: 20:20:8-690485)
+Runde 10 hat Spieler_2 mit folgendem Wurf gewonnen: 50!
+
+Runde 11 - gestartet um 2024-05-30 20:27:13.691350009 +02:00 - beendet um 2024-05-30 20:27:18.691581820 +02:00:
+Da waren wohl alle Spieler zu langsam für den Spielleiter :)
+
