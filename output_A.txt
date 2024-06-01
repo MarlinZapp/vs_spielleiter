@@ -1,0 +1,108 @@
+Runde 1 - gestartet um 2024-05-31 21:07:07.410857390 +02:00 - beendet um 2024-05-31 21:07:17.411007198 +02:00:
+Kilian_1 hat eine 29 gewürfelt! (START-Nachricht erhalten: 21:6:55.626773, Antwort gesendet: 21:6:55.628300)
+Kilian_3 hat eine 49 gewürfelt! (START-Nachricht erhalten: 21:7:7.496114, Antwort gesendet: 21:7:10.496473)
+Kilian_2 hat eine 17 gewürfelt! (START-Nachricht erhalten: 19:7:7.431380, Antwort gesendet: 19:7:10.431834)
+Runde 1 hat Kilian_3 mit folgendem Wurf gewonnen: 49!
+
+Runde 2 - gestartet um 2024-05-31 21:07:17.411476171 +02:00 - beendet um 2024-05-31 21:07:27.411569590 +02:00:
+Kilian_3 hat eine 85 gewürfelt! (START-Nachricht erhalten: 21:7:17.520307, Antwort gesendet: 21:7:17.520524)
+Kilian_1 hat eine 34 gewürfelt! (START-Nachricht erhalten: 21:7:5.735866, Antwort gesendet: 21:7:7.736299)
+Kilian_2 hat eine 99 gewürfelt! (START-Nachricht erhalten: 19:7:17.515256, Antwort gesendet: 19:7:21.515517)
+Runde 2 hat Kilian_2 mit folgendem Wurf gewonnen: 99!
+
+Runde 3 - gestartet um 2024-05-31 21:07:27.411974843 +02:00 - beendet um 2024-05-31 21:07:37.412066292 +02:00:
+Kilian_3 hat eine 50 gewürfelt! (START-Nachricht erhalten: 21:7:27.532160, Antwort gesendet: 21:7:27.532327)
+Kilian_1 hat eine 30 gewürfelt! (START-Nachricht erhalten: 21:7:15.722977, Antwort gesendet: 21:7:20.723363)
+Kilian_2 hat eine 73 gewürfelt! (START-Nachricht erhalten: 19:7:27.499423, Antwort gesendet: 19:7:29.499881)
+Runde 3 hat Kilian_2 mit folgendem Wurf gewonnen: 73!
+
+Runde 4 - gestartet um 2024-05-31 21:07:37.412460865 +02:00 - beendet um 2024-05-31 21:07:47.412560823 +02:00:
+Kilian_1 hat eine 65 gewürfelt! (START-Nachricht erhalten: 21:7:25.748498, Antwort gesendet: 21:7:29.749015)
+Kilian_3 hat eine 45 gewürfelt! (START-Nachricht erhalten: 21:7:37.526530, Antwort gesendet: 21:7:43.526812)
+Kilian_2 hat eine 12 gewürfelt! (START-Nachricht erhalten: 19:7:37.491578, Antwort gesendet: 19:7:43.491830)
+Runde 4 hat Kilian_1 mit folgendem Wurf gewonnen: 65!
+
+Runde 5 - gestartet um 2024-05-31 21:07:47.412979786 +02:00 - beendet um 2024-05-31 21:07:57.413069307 +02:00:
+Kilian_3 hat eine 24 gewürfelt! (START-Nachricht erhalten: 21:7:47.496087, Antwort gesendet: 21:7:49.496364)
+Kilian_1 hat eine 49 gewürfelt! (START-Nachricht erhalten: 21:7:35.728402, Antwort gesendet: 21:7:38.729013)
+Kilian_2 hat eine 41 gewürfelt! (START-Nachricht erhalten: 19:7:47.490996, Antwort gesendet: 19:7:53.491330)
+Runde 5 hat Kilian_1 mit folgendem Wurf gewonnen: 49!
+
+Runde 6 - gestartet um 2024-05-31 21:07:57.413480640 +02:00 - beendet um 2024-05-31 21:08:07.413577548 +02:00:
+Kilian_3 hat eine 84 gewürfelt! (START-Nachricht erhalten: 21:7:57.496356, Antwort gesendet: 21:8:0.496654)
+Kilian_1 hat eine 94 gewürfelt! (START-Nachricht erhalten: 21:7:45.718143, Antwort gesendet: 21:7:49.718526)
+Kilian_2 hat eine 70 gewürfelt! (START-Nachricht erhalten: 19:7:57.491169, Antwort gesendet: 19:8:0.491435)
+Runde 6 hat Kilian_1 mit folgendem Wurf gewonnen: 94!
+
+Runde 7 - gestartet um 2024-05-31 21:08:07.414006901 +02:00 - beendet um 2024-05-31 21:08:17.414107729 +02:00:
+Kilian_3 hat eine 60 gewürfelt! (START-Nachricht erhalten: 21:8:7.495941, Antwort gesendet: 21:8:9.496230)
+Kilian_1 hat eine 32 gewürfelt! (START-Nachricht erhalten: 21:7:55.720287, Antwort gesendet: 21:7:58.720657)
+Kilian_2 hat eine 5 gewürfelt! (START-Nachricht erhalten: 19:8:7.490627, Antwort gesendet: 19:8:7.490831)
+Runde 7 hat Kilian_3 mit folgendem Wurf gewonnen: 60!
+
+Runde 8 - gestartet um 2024-05-31 21:08:17.414526542 +02:00 - beendet um 2024-05-31 21:08:27.414630832 +02:00:
+Kilian_3 hat eine 96 gewürfelt! (START-Nachricht erhalten: 21:8:17.496681, Antwort gesendet: 21:8:18.496967)
+Kilian_1 hat eine 20 gewürfelt! (START-Nachricht erhalten: 21:8:5.726265, Antwort gesendet: 21:8:11.726672)
+Kilian_2 hat eine 73 gewürfelt! (START-Nachricht erhalten: 19:8:17.528823, Antwort gesendet: 19:8:20.529097)
+Runde 8 hat Kilian_3 mit folgendem Wurf gewonnen: 96!
+
+Runde 9 - gestartet um 2024-05-31 21:08:27.415041714 +02:00 - beendet um 2024-05-31 21:08:37.415150133 +02:00:
+Kilian_3 hat eine 65 gewürfelt! (START-Nachricht erhalten: 21:8:27.491052, Antwort gesendet: 21:8:31.491365)
+Kilian_1 hat eine 71 gewürfelt! (START-Nachricht erhalten: 21:8:15.724078, Antwort gesendet: 21:8:21.724340)
+Kilian_2 hat eine 4 gewürfelt! (START-Nachricht erhalten: 19:8:27.486169, Antwort gesendet: 19:8:30.486433)
+Runde 9 hat Kilian_1 mit folgendem Wurf gewonnen: 71!
+
+Runde 10 - gestartet um 2024-05-31 21:08:37.415580315 +02:00 - beendet um 2024-05-31 21:08:47.415675753 +02:00:
+Kilian_1 hat eine 48 gewürfelt! (START-Nachricht erhalten: 21:8:25.718875, Antwort gesendet: 21:8:27.719191)
+Kilian_3 hat eine 13 gewürfelt! (START-Nachricht erhalten: 21:8:37.496555, Antwort gesendet: 21:8:43.496845)
+Kilian_2 hat eine 54 gewürfelt! (START-Nachricht erhalten: 19:8:37.491376, Antwort gesendet: 19:8:40.491894)
+Runde 10 hat Kilian_2 mit folgendem Wurf gewonnen: 54!
+
+Runde 11 - gestartet um 2024-05-31 21:08:47.416085715 +02:00 - beendet um 2024-05-31 21:08:57.416177262 +02:00:
+Kilian_1 hat eine 72 gewürfelt! (START-Nachricht erhalten: 21:8:35.718946, Antwort gesendet: 21:8:40.719628)
+Kilian_3 hat eine 82 gewürfelt! (START-Nachricht erhalten: 21:8:47.496136, Antwort gesendet: 21:8:53.496415)
+Kilian_2 hat eine 16 gewürfelt! (START-Nachricht erhalten: 19:8:47.490564, Antwort gesendet: 19:8:48.490850)
+Runde 11 hat Kilian_3 mit folgendem Wurf gewonnen: 82!
+
+Runde 12 - gestartet um 2024-05-31 21:08:57.416597535 +02:00 - beendet um 2024-05-31 21:09:07.416918025 +02:00:
+Kilian_3 hat eine 49 gewürfelt! (START-Nachricht erhalten: 21:8:57.492157, Antwort gesendet: 21:9:3.492439)
+Kilian_1 hat eine 93 gewürfelt! (START-Nachricht erhalten: 21:8:45.727896, Antwort gesendet: 21:8:51.728501)
+Kilian_2 hat eine 59 gewürfelt! (START-Nachricht erhalten: 19:8:57.486768, Antwort gesendet: 19:8:57.486971)
+Runde 12 hat Kilian_1 mit folgendem Wurf gewonnen: 93!
+
+Runde 13 - gestartet um 2024-05-31 21:09:07.417360358 +02:00 - beendet um 2024-05-31 21:09:17.417470306 +02:00:
+Kilian_1 hat eine 95 gewürfelt! (START-Nachricht erhalten: 21:8:55.738035, Antwort gesendet: 21:8:55.738206)
+Kilian_3 hat eine 31 gewürfelt! (START-Nachricht erhalten: 21:9:7.519969, Antwort gesendet: 21:9:8.520249)
+Kilian_2 hat eine 84 gewürfelt! (START-Nachricht erhalten: 19:9:7.564650, Antwort gesendet: 19:9:11.564954)
+Runde 13 hat Kilian_1 mit folgendem Wurf gewonnen: 95!
+
+Runde 14 - gestartet um 2024-05-31 21:09:17.417866149 +02:00 - beendet um 2024-05-31 21:09:27.417963567 +02:00:
+Kilian_1 hat eine 95 gewürfelt! (START-Nachricht erhalten: 21:9:5.736936, Antwort gesendet: 21:9:8.737220)
+Kilian_3 hat eine 86 gewürfelt! (START-Nachricht erhalten: 21:9:17.505367, Antwort gesendet: 21:9:23.505646)
+Kilian_2 hat eine 48 gewürfelt! (START-Nachricht erhalten: 19:9:17.500015, Antwort gesendet: 19:9:21.500326)
+Runde 14 hat Kilian_1 mit folgendem Wurf gewonnen: 95!
+
+Runde 15 - gestartet um 2024-05-31 21:09:27.418457170 +02:00 - beendet um 2024-05-31 21:09:37.418571508 +02:00:
+Kilian_3 hat eine 62 gewürfelt! (START-Nachricht erhalten: 21:9:27.495898, Antwort gesendet: 21:9:28.496192)
+Kilian_1 hat eine 13 gewürfelt! (START-Nachricht erhalten: 21:9:15.731287, Antwort gesendet: 21:9:21.731877)
+Kilian_2 hat eine 48 gewürfelt! (START-Nachricht erhalten: 19:9:27.490546, Antwort gesendet: 19:9:29.490814)
+Runde 15 hat Kilian_3 mit folgendem Wurf gewonnen: 62!
+
+Runde 16 - gestartet um 2024-05-31 21:09:37.418977891 +02:00 - beendet um 2024-05-31 21:09:47.419070990 +02:00:
+Kilian_1 hat eine 90 gewürfelt! (START-Nachricht erhalten: 21:9:25.706110, Antwort gesendet: 21:9:26.706317)
+Kilian_3 hat eine 74 gewürfelt! (START-Nachricht erhalten: 21:9:37.492324, Antwort gesendet: 21:9:41.492607)
+Kilian_2 hat eine 100 gewürfelt! (START-Nachricht erhalten: 19:9:37.486811, Antwort gesendet: 19:9:38.487093)
+Runde 16 hat Kilian_2 mit folgendem Wurf gewonnen: 100!
+
+Runde 17 - gestartet um 2024-05-31 21:09:47.419463043 +02:00 - beendet um 2024-05-31 21:09:57.419558282 +02:00:
+Kilian_3 hat eine 47 gewürfelt! (START-Nachricht erhalten: 21:9:47.497752, Antwort gesendet: 21:9:51.498050)
+Kilian_1 hat eine 69 gewürfelt! (START-Nachricht erhalten: 21:9:35.710504, Antwort gesendet: 21:9:41.711171)
+Kilian_2 hat eine 26 gewürfelt! (START-Nachricht erhalten: 19:9:47.492100, Antwort gesendet: 19:9:49.492387)
+Runde 17 hat Kilian_1 mit folgendem Wurf gewonnen: 69!
+
+Runde 18 - gestartet um 2024-05-31 21:09:57.419985344 +02:00 - beendet um 2024-05-31 21:10:07.420089197 +02:00:
+Kilian_3 hat eine 55 gewürfelt! (START-Nachricht erhalten: 21:9:57.491777, Antwort gesendet: 21:10:0.492060)
+Kilian_1 hat eine 89 gewürfelt! (START-Nachricht erhalten: 21:9:45.727430, Antwort gesendet: 21:9:50.727857)
+Kilian_2 hat eine 74 gewürfelt! (START-Nachricht erhalten: 19:9:57.485873, Antwort gesendet: 19:10:1.486136)
+Runde 18 hat Kilian_1 mit folgendem Wurf gewonnen: 89!
+

@@ -1,0 +1,196 @@
+Runde 1 - gestartet um 2024-05-31 21:10:41.104835289 +02:00 - beendet um 2024-05-31 21:10:51.105038822 +02:00:
+Lamportzeit zu Rundenstart: 1 und zu Rundenende: 6
+Kilian_3 hat eine 64 gewürfelt! (START-Nachricht erhalten: 21:10:41.186373, Antwort gesendet: 21:10:47.186732, Lamport-Zeit: 2)
+Kilian_1 hat eine 38 gewürfelt! (START-Nachricht erhalten: 21:10:29.325692, Antwort gesendet: 21:10:31.327123, Lamport-Zeit: 2)
+Kilian_2 hat eine 21 gewürfelt! (START-Nachricht erhalten: 19:10:41.123360, Antwort gesendet: 19:10:44.123689, Lamport-Zeit: 2)
+Runde 1 hat Kilian_3 mit folgendem Wurf gewonnen: 64!
+
+Runde 2 - gestartet um 2024-05-31 21:10:51.105753407 +02:00 - beendet um 2024-05-31 21:11:01.105860977 +02:00:
+Lamportzeit zu Rundenstart: 7 und zu Rundenende: 12
+Kilian_3 hat eine 93 gewürfelt! (START-Nachricht erhalten: 21:10:51.186192, Antwort gesendet: 21:10:52.186503, Lamport-Zeit: 8)
+Kilian_1 hat eine 83 gewürfelt! (START-Nachricht erhalten: 21:10:39.413803, Antwort gesendet: 21:10:45.414266, Lamport-Zeit: 8)
+Kilian_2 hat eine 48 gewürfelt! (START-Nachricht erhalten: 19:10:51.179496, Antwort gesendet: 19:10:56.179767, Lamport-Zeit: 8)
+Runde 2 hat Kilian_3 mit folgendem Wurf gewonnen: 93!
+
+Runde 3 - gestartet um 2024-05-31 21:11:01.106351220 +02:00 - beendet um 2024-05-31 21:11:11.106471752 +02:00:
+Lamportzeit zu Rundenstart: 13 und zu Rundenende: 18
+Kilian_3 hat eine 68 gewürfelt! (START-Nachricht erhalten: 21:11:1.205597, Antwort gesendet: 21:11:5.205887, Lamport-Zeit: 14)
+Kilian_1 hat eine 75 gewürfelt! (START-Nachricht erhalten: 21:10:49.408389, Antwort gesendet: 21:10:49.408553, Lamport-Zeit: 14)
+Kilian_2 hat eine 29 gewürfelt! (START-Nachricht erhalten: 19:11:1.168424, Antwort gesendet: 19:11:7.168683, Lamport-Zeit: 14)
+Runde 3 hat Kilian_1 mit folgendem Wurf gewonnen: 75!
+
+Runde 4 - gestartet um 2024-05-31 21:11:11.107042436 +02:00 - beendet um 2024-05-31 21:11:21.107166395 +02:00:
+Lamportzeit zu Rundenstart: 19 und zu Rundenende: 24
+Kilian_3 hat eine 32 gewürfelt! (START-Nachricht erhalten: 21:11:11.188174, Antwort gesendet: 21:11:16.188453, Lamport-Zeit: 20)
+Kilian_1 hat eine 20 gewürfelt! (START-Nachricht erhalten: 21:10:59.408491, Antwort gesendet: 21:11:4.408823, Lamport-Zeit: 20)
+Kilian_2 hat eine 56 gewürfelt! (START-Nachricht erhalten: 19:11:11.181592, Antwort gesendet: 19:11:13.181872, Lamport-Zeit: 20)
+Runde 4 hat Kilian_2 mit folgendem Wurf gewonnen: 56!
+
+Runde 5 - gestartet um 2024-05-31 21:11:21.107709068 +02:00 - beendet um 2024-05-31 21:11:31.107833449 +02:00:
+Lamportzeit zu Rundenstart: 25 und zu Rundenende: 30
+Kilian_3 hat eine 94 gewürfelt! (START-Nachricht erhalten: 21:11:21.188354, Antwort gesendet: 21:11:21.188581, Lamport-Zeit: 26)
+Kilian_1 hat eine 73 gewürfelt! (START-Nachricht erhalten: 21:11:9.411454, Antwort gesendet: 21:11:13.411789, Lamport-Zeit: 26)
+Kilian_2 hat eine 62 gewürfelt! (START-Nachricht erhalten: 19:11:21.182107, Antwort gesendet: 19:11:21.182299, Lamport-Zeit: 26)
+Runde 5 hat Kilian_3 mit folgendem Wurf gewonnen: 94!
+
+Runde 6 - gestartet um 2024-05-31 21:11:31.108355092 +02:00 - beendet um 2024-05-31 21:11:41.108476171 +02:00:
+Lamportzeit zu Rundenstart: 31 und zu Rundenende: 36
+Kilian_3 hat eine 27 gewürfelt! (START-Nachricht erhalten: 21:11:31.226185, Antwort gesendet: 21:11:37.226499, Lamport-Zeit: 32)
+Kilian_1 hat eine 15 gewürfelt! (START-Nachricht erhalten: 21:11:19.408849, Antwort gesendet: 21:11:22.409313, Lamport-Zeit: 32)
+Kilian_2 hat eine 98 gewürfelt! (START-Nachricht erhalten: 19:11:31.219463, Antwort gesendet: 19:11:34.219911, Lamport-Zeit: 32)
+Runde 6 hat Kilian_2 mit folgendem Wurf gewonnen: 98!
+
+Runde 7 - gestartet um 2024-05-31 21:11:41.108993054 +02:00 - beendet um 2024-05-31 21:11:51.109387615 +02:00:
+Lamportzeit zu Rundenstart: 37 und zu Rundenende: 42
+Kilian_3 hat eine 19 gewürfelt! (START-Nachricht erhalten: 21:11:41.191871, Antwort gesendet: 21:11:41.192083, Lamport-Zeit: 38)
+Kilian_1 hat eine 55 gewürfelt! (START-Nachricht erhalten: 21:11:29.409115, Antwort gesendet: 21:11:30.409298, Lamport-Zeit: 38)
+Kilian_2 hat eine 63 gewürfelt! (START-Nachricht erhalten: 19:11:41.185112, Antwort gesendet: 19:11:41.185301, Lamport-Zeit: 38)
+Runde 7 hat Kilian_2 mit folgendem Wurf gewonnen: 63!
+
+Runde 8 - gestartet um 2024-05-31 21:11:51.109927468 +02:00 - beendet um 2024-05-31 21:12:01.110037298 +02:00:
+Lamportzeit zu Rundenstart: 43 und zu Rundenende: 48
+Kilian_3 hat eine 33 gewürfelt! (START-Nachricht erhalten: 21:11:51.226039, Antwort gesendet: 21:11:53.226321, Lamport-Zeit: 44)
+Kilian_1 hat eine 3 gewürfelt! (START-Nachricht erhalten: 21:11:39.425124, Antwort gesendet: 21:11:43.425556, Lamport-Zeit: 44)
+Kilian_2 hat eine 14 gewürfelt! (START-Nachricht erhalten: 19:11:51.219524, Antwort gesendet: 19:11:51.219754, Lamport-Zeit: 44)
+Runde 8 hat Kilian_3 mit folgendem Wurf gewonnen: 33!
+
+Runde 9 - gestartet um 2024-05-31 21:12:01.110579781 +02:00 - beendet um 2024-05-31 21:12:11.110701640 +02:00:
+Lamportzeit zu Rundenstart: 49 und zu Rundenende: 54
+Kilian_3 hat eine 28 gewürfelt! (START-Nachricht erhalten: 21:12:1.191022, Antwort gesendet: 21:12:2.191300, Lamport-Zeit: 50)
+Kilian_1 hat eine 50 gewürfelt! (START-Nachricht erhalten: 21:11:49.408589, Antwort gesendet: 21:11:50.408763, Lamport-Zeit: 50)
+Kilian_2 hat eine 39 gewürfelt! (START-Nachricht erhalten: 19:12:1.227691, Antwort gesendet: 19:12:3.227947, Lamport-Zeit: 50)
+Runde 9 hat Kilian_1 mit folgendem Wurf gewonnen: 50!
+
+Runde 10 - gestartet um 2024-05-31 21:12:11.111245663 +02:00 - beendet um 2024-05-31 21:12:21.111369421 +02:00:
+Lamportzeit zu Rundenstart: 55 und zu Rundenende: 60
+Kilian_3 hat eine 48 gewürfelt! (START-Nachricht erhalten: 21:12:11.197009, Antwort gesendet: 21:12:17.197292, Lamport-Zeit: 56)
+Kilian_1 hat eine 24 gewürfelt! (START-Nachricht erhalten: 21:11:59.428650, Antwort gesendet: 21:12:3.428844, Lamport-Zeit: 56)
+Kilian_2 hat eine 29 gewürfelt! (START-Nachricht erhalten: 19:12:11.190139, Antwort gesendet: 19:12:11.190326, Lamport-Zeit: 56)
+Runde 10 hat Kilian_3 mit folgendem Wurf gewonnen: 48!
+
+Runde 11 - gestartet um 2024-05-31 21:12:21.111905734 +02:00 - beendet um 2024-05-31 21:12:31.112012132 +02:00:
+Lamportzeit zu Rundenstart: 61 und zu Rundenende: 66
+Kilian_3 hat eine 100 gewürfelt! (START-Nachricht erhalten: 21:12:21.196324, Antwort gesendet: 21:12:27.196572, Lamport-Zeit: 62)
+Kilian_1 hat eine 58 gewürfelt! (START-Nachricht erhalten: 21:12:9.427137, Antwort gesendet: 21:12:13.427637, Lamport-Zeit: 62)
+Kilian_2 hat eine 13 gewürfelt! (START-Nachricht erhalten: 19:12:21.221586, Antwort gesendet: 19:12:25.222082, Lamport-Zeit: 62)
+Runde 11 hat Kilian_3 mit folgendem Wurf gewonnen: 100!
+
+Runde 12 - gestartet um 2024-05-31 21:12:31.112542406 +02:00 - beendet um 2024-05-31 21:12:41.112659806 +02:00:
+Lamportzeit zu Rundenstart: 67 und zu Rundenende: 72
+Kilian_3 hat eine 43 gewürfelt! (START-Nachricht erhalten: 21:12:31.195934, Antwort gesendet: 21:12:37.196213, Lamport-Zeit: 68)
+Kilian_1 hat eine 75 gewürfelt! (START-Nachricht erhalten: 21:12:19.416599, Antwort gesendet: 21:12:22.416860, Lamport-Zeit: 68)
+Kilian_2 hat eine 46 gewürfelt! (START-Nachricht erhalten: 19:12:31.188972, Antwort gesendet: 19:12:31.189166, Lamport-Zeit: 68)
+Runde 12 hat Kilian_1 mit folgendem Wurf gewonnen: 75!
+
+Runde 13 - gestartet um 2024-05-31 21:12:41.113194939 +02:00 - beendet um 2024-05-31 21:12:51.113297407 +02:00:
+Lamportzeit zu Rundenstart: 73 und zu Rundenende: 78
+Kilian_3 hat eine 13 gewürfelt! (START-Nachricht erhalten: 21:12:41.189803, Antwort gesendet: 21:12:43.190035, Lamport-Zeit: 74)
+Kilian_1 hat eine 50 gewürfelt! (START-Nachricht erhalten: 21:12:29.427320, Antwort gesendet: 21:12:30.427893, Lamport-Zeit: 74)
+Kilian_2 hat eine 20 gewürfelt! (START-Nachricht erhalten: 19:12:41.221389, Antwort gesendet: 19:12:47.221679, Lamport-Zeit: 74)
+Runde 13 hat Kilian_1 mit folgendem Wurf gewonnen: 50!
+
+Runde 14 - gestartet um 2024-05-31 21:12:51.113830351 +02:00 - beendet um 2024-05-31 21:13:01.113947329 +02:00:
+Lamportzeit zu Rundenstart: 79 und zu Rundenende: 84
+Kilian_3 hat eine 23 gewürfelt! (START-Nachricht erhalten: 21:12:51.196917, Antwort gesendet: 21:12:54.197195, Lamport-Zeit: 80)
+Kilian_1 hat eine 91 gewürfelt! (START-Nachricht erhalten: 21:12:39.426909, Antwort gesendet: 21:12:39.427036, Lamport-Zeit: 80)
+Kilian_2 hat eine 21 gewürfelt! (START-Nachricht erhalten: 19:12:51.190278, Antwort gesendet: 19:12:54.190561, Lamport-Zeit: 80)
+Runde 14 hat Kilian_1 mit folgendem Wurf gewonnen: 91!
+
+Runde 15 - gestartet um 2024-05-31 21:13:01.114378132 +02:00 - beendet um 2024-05-31 21:13:11.114498112 +02:00:
+Lamportzeit zu Rundenstart: 85 und zu Rundenende: 90
+Kilian_3 hat eine 88 gewürfelt! (START-Nachricht erhalten: 21:13:1.191478, Antwort gesendet: 21:13:2.191764, Lamport-Zeit: 86)
+Kilian_1 hat eine 98 gewürfelt! (START-Nachricht erhalten: 21:12:49.430435, Antwort gesendet: 21:12:54.431141, Lamport-Zeit: 86)
+Kilian_2 hat eine 96 gewürfelt! (START-Nachricht erhalten: 19:13:1.184466, Antwort gesendet: 19:13:5.184738, Lamport-Zeit: 86)
+Runde 15 hat Kilian_1 mit folgendem Wurf gewonnen: 98!
+
+Runde 16 - gestartet um 2024-05-31 21:13:11.115003815 +02:00 - beendet um 2024-05-31 21:13:21.115113473 +02:00:
+Lamportzeit zu Rundenstart: 91 und zu Rundenende: 96
+Kilian_3 hat eine 4 gewürfelt! (START-Nachricht erhalten: 21:13:11.196071, Antwort gesendet: 21:13:16.196353, Lamport-Zeit: 92)
+Kilian_1 hat eine 5 gewürfelt! (START-Nachricht erhalten: 21:12:59.436532, Antwort gesendet: 21:13:1.436792, Lamport-Zeit: 92)
+Kilian_2 hat eine 86 gewürfelt! (START-Nachricht erhalten: 19:13:11.189146, Antwort gesendet: 19:13:11.189342, Lamport-Zeit: 92)
+Runde 16 hat Kilian_2 mit folgendem Wurf gewonnen: 86!
+
+Runde 17 - gestartet um 2024-05-31 21:13:21.115613727 +02:00 - beendet um 2024-05-31 21:13:31.115726886 +02:00:
+Lamportzeit zu Rundenstart: 97 und zu Rundenende: 102
+Kilian_3 hat eine 86 gewürfelt! (START-Nachricht erhalten: 21:13:21.191316, Antwort gesendet: 21:13:22.191593, Lamport-Zeit: 98)
+Kilian_1 hat eine 39 gewürfelt! (START-Nachricht erhalten: 21:13:9.427772, Antwort gesendet: 21:13:9.427920, Lamport-Zeit: 98)
+Kilian_2 hat eine 61 gewürfelt! (START-Nachricht erhalten: 19:13:21.221071, Antwort gesendet: 19:13:23.221306, Lamport-Zeit: 98)
+Runde 17 hat Kilian_3 mit folgendem Wurf gewonnen: 86!
+
+Runde 18 - gestartet um 2024-05-31 21:13:31.116240549 +02:00 - beendet um 2024-05-31 21:13:41.116361897 +02:00:
+Lamportzeit zu Rundenstart: 103 und zu Rundenende: 108
+Kilian_3 hat eine 14 gewürfelt! (START-Nachricht erhalten: 21:13:31.197962, Antwort gesendet: 21:13:31.198174, Lamport-Zeit: 104)
+Kilian_1 hat eine 45 gewürfelt! (START-Nachricht erhalten: 21:13:19.427191, Antwort gesendet: 21:13:20.427478, Lamport-Zeit: 104)
+Kilian_2 hat eine 70 gewürfelt! (START-Nachricht erhalten: 19:13:31.189757, Antwort gesendet: 19:13:32.190023, Lamport-Zeit: 104)
+Runde 18 hat Kilian_2 mit folgendem Wurf gewonnen: 70!
+
+Runde 19 - gestartet um 2024-05-31 21:13:41.116858760 +02:00 - beendet um 2024-05-31 21:13:51.116960929 +02:00:
+Lamportzeit zu Rundenstart: 109 und zu Rundenende: 114
+Kilian_3 hat eine 31 gewürfelt! (START-Nachricht erhalten: 21:13:41.256269, Antwort gesendet: 21:13:42.256551, Lamport-Zeit: 110)
+Kilian_1 hat eine 98 gewürfelt! (START-Nachricht erhalten: 21:13:29.427142, Antwort gesendet: 21:13:32.427591, Lamport-Zeit: 110)
+Kilian_2 hat eine 22 gewürfelt! (START-Nachricht erhalten: 19:13:41.189652, Antwort gesendet: 19:13:43.189934, Lamport-Zeit: 110)
+Runde 19 hat Kilian_1 mit folgendem Wurf gewonnen: 98!
+
+Runde 20 - gestartet um 2024-05-31 21:13:51.117493452 +02:00 - beendet um 2024-05-31 21:14:01.117600122 +02:00:
+Lamportzeit zu Rundenstart: 115 und zu Rundenende: 120
+Kilian_3 hat eine 14 gewürfelt! (START-Nachricht erhalten: 21:13:51.191895, Antwort gesendet: 21:13:54.192175, Lamport-Zeit: 116)
+Kilian_1 hat eine 79 gewürfelt! (START-Nachricht erhalten: 21:13:39.412520, Antwort gesendet: 21:13:43.412847, Lamport-Zeit: 116)
+Kilian_2 hat eine 81 gewürfelt! (START-Nachricht erhalten: 19:13:51.184883, Antwort gesendet: 19:13:51.185094, Lamport-Zeit: 116)
+Runde 20 hat Kilian_2 mit folgendem Wurf gewonnen: 81!
+
+Runde 21 - gestartet um 2024-05-31 21:14:01.118178815 +02:00 - beendet um 2024-05-31 21:14:11.118288983 +02:00:
+Lamportzeit zu Rundenstart: 121 und zu Rundenende: 126
+Kilian_3 hat eine 96 gewürfelt! (START-Nachricht erhalten: 21:14:1.195578, Antwort gesendet: 21:14:3.195852, Lamport-Zeit: 122)
+Kilian_1 hat eine 100 gewürfelt! (START-Nachricht erhalten: 21:13:49.413053, Antwort gesendet: 21:13:53.413501, Lamport-Zeit: 122)
+Kilian_2 hat eine 3 gewürfelt! (START-Nachricht erhalten: 19:14:1.222531, Antwort gesendet: 19:14:5.222812, Lamport-Zeit: 122)
+Runde 21 hat Kilian_1 mit folgendem Wurf gewonnen: 100!
+
+Runde 22 - gestartet um 2024-05-31 21:14:11.118841526 +02:00 - beendet um 2024-05-31 21:14:21.118958925 +02:00:
+Lamportzeit zu Rundenstart: 127 und zu Rundenende: 132
+Kilian_3 hat eine 57 gewürfelt! (START-Nachricht erhalten: 21:14:11.218373, Antwort gesendet: 21:14:17.218749, Lamport-Zeit: 128)
+Kilian_1 hat eine 82 gewürfelt! (START-Nachricht erhalten: 21:13:59.433400, Antwort gesendet: 21:14:2.433851, Lamport-Zeit: 128)
+Kilian_2 hat eine 96 gewürfelt! (START-Nachricht erhalten: 19:14:11.187481, Antwort gesendet: 19:14:13.187975, Lamport-Zeit: 128)
+Runde 22 hat Kilian_2 mit folgendem Wurf gewonnen: 96!
+
+Runde 23 - gestartet um 2024-05-31 21:14:21.119489369 +02:00 - beendet um 2024-05-31 21:14:31.119608617 +02:00:
+Lamportzeit zu Rundenstart: 133 und zu Rundenende: 138
+Kilian_3 hat eine 3 gewürfelt! (START-Nachricht erhalten: 21:14:21.192678, Antwort gesendet: 21:14:26.192968, Lamport-Zeit: 134)
+Kilian_1 hat eine 13 gewürfelt! (START-Nachricht erhalten: 21:14:9.427993, Antwort gesendet: 21:14:13.428608, Lamport-Zeit: 134)
+Kilian_2 hat eine 27 gewürfelt! (START-Nachricht erhalten: 19:14:21.185707, Antwort gesendet: 19:14:27.186225, Lamport-Zeit: 134)
+Runde 23 hat Kilian_2 mit folgendem Wurf gewonnen: 27!
+
+Runde 24 - gestartet um 2024-05-31 21:14:31.120113741 +02:00 - beendet um 2024-05-31 21:14:41.120219299 +02:00:
+Lamportzeit zu Rundenstart: 139 und zu Rundenende: 144
+Kilian_3 hat eine 10 gewürfelt! (START-Nachricht erhalten: 21:14:31.206829, Antwort gesendet: 21:14:31.207049, Lamport-Zeit: 140)
+Kilian_1 hat eine 49 gewürfelt! (START-Nachricht erhalten: 21:14:19.448085, Antwort gesendet: 21:14:24.448782, Lamport-Zeit: 140)
+Kilian_2 hat eine 54 gewürfelt! (START-Nachricht erhalten: 19:14:31.199788, Antwort gesendet: 19:14:31.199955, Lamport-Zeit: 140)
+Runde 24 hat Kilian_2 mit folgendem Wurf gewonnen: 54!
+
+Runde 25 - gestartet um 2024-05-31 21:14:41.120739662 +02:00 - beendet um 2024-05-31 21:14:51.120814570 +02:00:
+Lamportzeit zu Rundenstart: 145 und zu Rundenende: 150
+Kilian_3 hat eine 62 gewürfelt! (START-Nachricht erhalten: 21:14:41.235554, Antwort gesendet: 21:14:41.235776, Lamport-Zeit: 146)
+Kilian_1 hat eine 49 gewürfelt! (START-Nachricht erhalten: 21:14:29.437689, Antwort gesendet: 21:14:29.437850, Lamport-Zeit: 146)
+Kilian_2 hat eine 73 gewürfelt! (START-Nachricht erhalten: 19:14:41.228272, Antwort gesendet: 19:14:43.228535, Lamport-Zeit: 146)
+Runde 25 hat Kilian_2 mit folgendem Wurf gewonnen: 73!
+
+Runde 26 - gestartet um 2024-05-31 21:14:51.121310593 +02:00 - beendet um 2024-05-31 21:15:01.121426781 +02:00:
+Lamportzeit zu Rundenstart: 151 und zu Rundenende: 156
+Kilian_3 hat eine 87 gewürfelt! (START-Nachricht erhalten: 21:14:51.247161, Antwort gesendet: 21:14:54.247400, Lamport-Zeit: 152)
+Kilian_1 hat eine 50 gewürfelt! (START-Nachricht erhalten: 21:14:39.449344, Antwort gesendet: 21:14:39.449478, Lamport-Zeit: 152)
+Kilian_2 hat eine 50 gewürfelt! (START-Nachricht erhalten: 19:14:51.191435, Antwort gesendet: 19:14:55.191725, Lamport-Zeit: 152)
+Runde 26 hat Kilian_3 mit folgendem Wurf gewonnen: 87!
+
+Runde 27 - gestartet um 2024-05-31 21:15:01.121925674 +02:00 - beendet um 2024-05-31 21:15:11.121998522 +02:00:
+Lamportzeit zu Rundenstart: 157 und zu Rundenende: 162
+Kilian_3 hat eine 54 gewürfelt! (START-Nachricht erhalten: 21:15:1.197159, Antwort gesendet: 21:15:2.197451, Lamport-Zeit: 158)
+Kilian_1 hat eine 29 gewürfelt! (START-Nachricht erhalten: 21:14:49.435799, Antwort gesendet: 21:14:52.436057, Lamport-Zeit: 158)
+Kilian_2 hat eine 23 gewürfelt! (START-Nachricht erhalten: 19:15:1.184333, Antwort gesendet: 19:15:6.184610, Lamport-Zeit: 158)
+Runde 27 hat Kilian_3 mit folgendem Wurf gewonnen: 54!
+
+Runde 28 - gestartet um 2024-05-31 21:15:11.122519956 +02:00 - beendet um 2024-05-31 21:15:21.122646156 +02:00:
+Lamportzeit zu Rundenstart: 163 und zu Rundenende: 168
+Kilian_3 hat eine 52 gewürfelt! (START-Nachricht erhalten: 21:15:11.208119, Antwort gesendet: 21:15:17.208413, Lamport-Zeit: 164)
+Kilian_1 hat eine 67 gewürfelt! (START-Nachricht erhalten: 21:14:59.436086, Antwort gesendet: 21:15:1.436695, Lamport-Zeit: 164)
+Kilian_2 hat eine 100 gewürfelt! (START-Nachricht erhalten: 19:15:11.186524, Antwort gesendet: 19:15:11.186701, Lamport-Zeit: 164)
+Runde 28 hat Kilian_2 mit folgendem Wurf gewonnen: 100!
+
